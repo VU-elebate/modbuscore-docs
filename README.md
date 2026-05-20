@@ -5,7 +5,7 @@ part of the Line Controller Embedded Platform developed at Vrije Universiteit Am
 
 ## View the docs
 
-👉 **[https://vu-elebate.github.io/modbuscore-docs/](https://vu-elebate.github.io/modbuscore-docs/)**
+👉 **[[https://vu-elebate.github.io/modbuscore-docs/](https://vu-elebate.github.io/modbuscore-docs/](https://vu-elebate.github.io/modbuscore-docs/))**
 
 ## About
 
