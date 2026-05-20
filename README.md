@@ -9,8 +9,7 @@ part of the Line Controller Embedded Platform developed at Vrije Universiteit Am
 
 ## About
 
-ModbusCore is a C/C++ library implementing the Modbus communication protocol,
-built for embedded systems using FreeRTOS and targeting NATO-sovereign hardware platforms.
+ModbusCore is a C/C++ library implementing the Modbus communication protocol.
 
 ## How docs are generated
 
@@ -31,4 +30,4 @@ The source code is maintained at:
 
 ## License
 
-© Vrije Universiteit Amsterdam — Embedded Systems Group
+© Vrije Universiteit Amsterdam — Electronics Engineering Group
